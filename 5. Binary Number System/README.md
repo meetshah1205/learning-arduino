@@ -156,4 +156,4 @@ This is similar to how diodes work, conducting to non-conducting, 0 to 1. SEE TH
 
 That is how computers work fundamentally, any colour, music, word can be mapped to numbers which can be mapped to 0s and 1s which can be mapped to ON or OFF.
 
-Words can be letters mapped to some character table (ASCII is a popular example), music can be if the pitch, frequency and all this is high, low or a number or something, colour is red, green, blue which can be a hexadecimal value (like (255, 255, 255) is red i think).
+Words can be letters mapped to some character table (ASCII is a popular example), music can be if the pitch, frequency and all this is high, low or a number or something, colour is red, green, blue which can be a hexadecimal value (like (255, 255, 255) is white and (0, 0, 0) is black, (255 (<- red), 255 (<- green), 255 (<- blue)) i think).
